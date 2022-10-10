@@ -23,7 +23,7 @@ Conteúdo (dentro de src/Components):
 - Reutilização de Componentes ou Props. 
 - Reutilização com Loop
 - React Fragments
--
+- Tipos de CSS
 -
 -
 -

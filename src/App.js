@@ -20,7 +20,7 @@ import Data from './Components/UseState/UseState';
   5 - CarDetails == Reutilização Componentes 
   6 - ReuLoop == Reutilização com Loop
   7 - Fragmentss == React Fragments 
-  8 - 
+  8 - Tipos de CSS
   9 - 
   10 -
 */
@@ -42,7 +42,7 @@ function App() {
       <CarDetails brand="Toyota" km={20000} color="Cinza" novo={false} />
       <ReuLoop />
       <Fragmentss />
-    
+      
       
 
     </div>
