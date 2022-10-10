@@ -7,10 +7,13 @@ import ConditionalRender from './Components/RenderCondicional/Render';
 import ReuLoop from './Components/Reutilizacao com Loop/ReuLoop';
 import CarDetails from './Components/Reutilizar_Componentes/Reuti';
 import Data from './Components/UseState/UseState';
+import Forms from './Pages/Forms/Index';
 
 
 
 /*
+ ----------------------------------------------------------------------------------
+  
   Guia de nomenclatura: 
 
   1 - Listaarray === Listas Array
@@ -21,8 +24,13 @@ import Data from './Components/UseState/UseState';
   6 - ReuLoop == Reutilização com Loop
   7 - Fragmentss == React Fragments 
   8 - Tipos de CSS
-  9 - 
+  9 - Forms == Formulário + Css Modules
   10 -
+  11 -
+  12 -
+
+  
+ ----------------------------------------------------------------------------------
 */
 
 
@@ -43,7 +51,7 @@ function App() {
       <ReuLoop />
       <Fragmentss />
       
-      
+      <Forms />
 
     </div>
   );
