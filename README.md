@@ -21,8 +21,11 @@ Conteúdo (dentro de src/Components):
 - Renderização Condicional
 - If / Else
 - Reutilização de Componentes ou Props. 
-- 
+- Reutilização com Loop
+- React Fragments
 -
 -
 -
+-
+
 -# React-Estudos
